@@ -18,6 +18,7 @@ Then duplicate the `.env.example` template with `cp .env.example .env` and add y
 ```
 OPENAI_API_KEY="your-api-key"
 ```
+First install npm if you do not have it: https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac
 
 Then install the dependencies and start the development server:
 
